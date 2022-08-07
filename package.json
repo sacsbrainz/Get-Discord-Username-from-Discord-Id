@@ -1,0 +1,25 @@
+{
+  "name": "get-discord-username-from-discord-id",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacsbrainz/Get-Discord-Username-from-Discord-Id.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sacsbrainz/Get-Discord-Username-from-Discord-Id/issues"
+  },
+  "homepage": "https://github.com/sacsbrainz/Get-Discord-Username-from-Discord-Id#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
